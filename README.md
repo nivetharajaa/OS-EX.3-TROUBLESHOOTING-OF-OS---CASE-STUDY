@@ -65,16 +65,20 @@ Perform a full system scan for viruses and malware using reputable antivirus sof
 
 Use built-in utilities like chkdsk (Windows) or fsck (Linux) to scan and repair disk errors and file system issues.
 
+
+
 ![image](https://github.com/nivetharajaa/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120543388/5f3969a5-c647-4fde-b6d8-f4f15eeaace8)
 
 ## STEP 12-Update Drivers:
 
 Ensure that your hardware drivers (graphics, sound, network) are up to date. Outdated drivers can cause various problems.
 
+
 ![image](https://github.com/nivetharajaa/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120543388/1fed7efb-5f0b-4b3a-8e8c-45443e952f03)
 
 ## STEP 13-System Restore:
 If applicable, consider using system restore points to revert your system to a previous state when it was working correctly.
+
 
 ![image](https://github.com/nivetharajaa/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120543388/7eb6f55b-a63f-410b-8b93-fc8749958bc2)
 
@@ -82,14 +86,18 @@ If applicable, consider using system restore points to revert your system to a p
 
 If all else fails and you suspect a major issue, back up your important data before attempting any major repairs or reinstallations.
 
+
 ![image](https://github.com/nivetharajaa/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120543388/2aca24a4-d041-4e74-86fc-0cf76bb59771)
 
 ## STEP 15-Reinstall OS:
 
 As a last resort, you may need to reinstall the operating system. Make sure to back up your data first.
 
+
 ![image](https://github.com/nivetharajaa/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120543388/cf23d186-c2e3-4651-a669-bb664eca8cdd)
 
 # RESULT:
+
+
 
 The Troubleshooting for the Operating System has been successfully.
